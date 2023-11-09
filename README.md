@@ -55,5 +55,3 @@ $ php artisan make:model <entite's name> -m
    $ php artisan migrate
   `````
 
-
-
